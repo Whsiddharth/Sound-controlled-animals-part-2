@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    color: rgb(181, 126, 189);
+    background-color: rgb(255, 255, 255);
+    font-family: patrick hand;
+}
+img{
+    width: 250px;
+}
+button{
+    color: white;
+    background-color: rgb(141, 93, 153);
+    border-radius: 10px;
+    border: none;
+    font-size: 30px;
+    font-family: patrick hand;
+}
